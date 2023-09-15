@@ -1,4 +1,4 @@
-# Thermal-Comfort-Modeling
+# Thermal-Comfort-Modeling: What is this project?
 
 Thermal comfort is an important component of the built environment and affects the health and well-being of occupants. Personal comfort models (PCMs) are a novel paradigm in thermal comfort 
 modeling and they use sensor data with machine learning algorithms. This project explores the use of deep learning for developing PCMs of 14 occupants using their raw physiological signals. 
